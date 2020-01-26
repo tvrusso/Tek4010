@@ -1,0 +1,9 @@
+Copy Apl385.ttf to /usr/local/share/fonts/TTF
+cd /usr/local/share/fonts/TTF
+mkfontscale
+mkfontdir
+
+Now, instead of just "fc-cache" do an "fc-cache -f" to force it.  fc-list will
+now show the font.
+
+For some reason fc-cache didn't work for me, probably because of time stamps.

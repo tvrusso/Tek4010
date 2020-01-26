@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # rricharz 2019
 
 wait1s() {
