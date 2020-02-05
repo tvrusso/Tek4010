@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/usr/bin/env bash
 # idemo, run with tek4010 to display ICEMD vector data
 # rricharz 2019
 
