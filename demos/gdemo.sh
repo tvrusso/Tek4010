@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/usr/bin/env bash
 # gdemo, run with tek4010 to display grayscale images
 # rricharz 2019
 
